@@ -1,13 +1,13 @@
-# studtbook
+# SpringBoot studtbook
 
 #개발툴
-### SpringBoot
-### JPA
-### Lombok
-### security
-### thymeleaf
+1.SpringBoot
+2.JPA
+3.Lombok
+4.security
+5.thymeleaf
 
 #기능
-### 회원가입
-### 게시판
-### 배포
+1.회원가입
+2.게시판
+3.배포
