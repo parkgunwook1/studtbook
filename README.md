@@ -1,4 +1,4 @@
-# SpringBoot studtbook
+# SpringBoot studtbook 게시판 프로젝트
 
 #개발툴
 1.SpringBoot
